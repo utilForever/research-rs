@@ -1,2 +1,3 @@
-# rust-playground
-Playground for Rust
+# research-rs
+
+Personal Research related to Rust Language
